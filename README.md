@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @prospektai
+- 👀 I’m interested in MERN Stack development, C/C++ compiler optimisations, Reverse Engineering
+- 🌱 I’m currently undertaking a C++ crash course in preparation for the IT olympiad
