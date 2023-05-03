@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @prospektai
-- 👀 I’m interested in MERN Stack development, C/C++ compiler optimisations, Reverse Engineering
-- 🌱 Keeping up to date with the latest React and Express.js docs
+- 👀 I’m interested in Full Stack Development, Artificial Intelligence and Reverse Engineering
+- 🌱 Keeping up to date with the latest Next.js and AI development
