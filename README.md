@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @prospektai
-- 👀 I’m interested in Full Stack Development, Artificial Intelligence and Reverse Engineering
-- 🌱 Keeping up to date with the latest Next.js and AI development
+- 👋 Hi, I’m Lukas
+- 👀 Interested in Full Stack Development, Artificial Intelligence and Reverse Engineering
+- 🌱 Following the latest AI / LLM / Generative Coding developments
+- ⚙️ Currently working on WordPress plugins and themes / API integrations
