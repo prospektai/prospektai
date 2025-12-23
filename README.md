@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Lukas
 - 👀 Interested in Full Stack Development, Artificial Intelligence and Reverse Engineering
 - 🌱 Following the latest AI / LLM / Generative Coding developments
-- ⚙️ Currently working on WordPress plugins and themes / API integrations
+- ⚙️ Currently working on WordPress / Shopify plugins and themes / API integrations
