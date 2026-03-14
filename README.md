@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Lukas
-- 👀 Interested in Full Stack Development, Artificial Intelligence and Reverse Engineering
-- 🌱 Following the latest AI / LLM / Generative Coding developments
-- ⚙️ Currently working on https://realgoals.app/ and https://smalsuolis.lt/
+- Hi, I’m Lukas
+- Trying to get my SaaS off the ground
+- Working on https://realgoals.app/ and https://smalsuolis.lt/
+
+Feel free to reach out lukas@webarch.lt
