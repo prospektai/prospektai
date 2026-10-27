@@ -1,6 +1,6 @@
-Hi, I’m Lukas
+Hi, I’m Lukas,
 
-- Working on
+I'm working on:
 
 https://phonemount.app/
 
